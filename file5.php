@@ -1,5 +1,5 @@
 <?php
-$nama = "arip";
+$nama = "Salman";
 $nilai = 85;
 
 if($nilai >= 85 && $nilai <= 100) $grade = "A";
